@@ -1,0 +1,4 @@
+# Ignore the big data files
+10302019.NASDAQ_ITCH50.bin
+10302019.NASDAQ_ITCH50.gz
+wiki_prices.csv
